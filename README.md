@@ -1,25 +1,8 @@
-<!-- social media connecting shield -->
 
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
+![task3](https://github.com/user-attachments/assets/6b7b5026-53c0-4dbf-a569-5fd0ce10f04c)
 
-![Screenshot](https://github.com/sJalui/Infosys-Springboard-Task-3/blob/main/Screenshot%202024-12-20%20020237.png?raw=true)
+# Product Performance Dashboard with Power BI | Infosys Springboard Task 3 
 
-# ✨ Product Performance Dashboard with Power BI | Infosys Springboard Task 3 
-
-Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `Product Performance Performance Dashboard`. Using `Power BI and it's tools`.
-
-<!-- my social media links -->
-
-[instagram-url]: https://www.instagram.com/s_jalui
-[linkedin-url]: https://in.linkedin.com/in/shubh-jalui-1923b1259
-[github-url]: https://www.github.com/sJalui
-<!-- shield icon links -->
-
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
 
 ## Dataset Overview:
